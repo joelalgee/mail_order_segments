@@ -17,3 +17,7 @@ The proportion of people in each cluster for the general population, and the pro
 Cluster 0 was overrepresented with the mail-order company compared to the general population. This segment of the population scores low on the first principal component, and high on the third, suggesting affluent suburban/country dwellers who are males of a certain character (combative, dominant, critical, rational, event-oriented) are excellent marketing prospects.
 
 Cluster 3 was underrepresented with the mail-order company compared to the general population. This segment of the population scores high on the first principal component, and low on the second and third, suggesting poor inner city inhabitants, who are young and impulsive are not good marketing prospects.
+
+## Credits
+
+This project was provided by [Udacity](https://www.udacity.com) as part of their [Intro to Machine Learning with Pytorch nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229).
