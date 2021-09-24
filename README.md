@@ -10,7 +10,7 @@ This project had a series of predefined steps to follow, with the analysis for e
 
 The data for this project cannot be shared, so the only file available here is Identify_Customer_Segments.html, a static HTML version of the Jupyter Notebook file.
 
-## Conclusions
+## Results
 
 The proportion of people in each cluster for the general population, and the proportions for the customers were quite different, suggesting that only particular segments of the population that are interested in the company's products.
 
