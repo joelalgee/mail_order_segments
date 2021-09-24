@@ -20,4 +20,4 @@ Cluster 3 was underrepresented with the mail-order company compared to the gener
 
 ## Credits
 
-This project was provided by [Udacity](https://www.udacity.com) as part of their [Intro to Machine Learning with Pytorch nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229).
+This project, and parts of the code, were provided by [Udacity](https://www.udacity.com) as part of their [Intro to Machine Learning with Pytorch nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229).
