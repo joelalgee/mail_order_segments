@@ -1,4 +1,4 @@
-# Mail-Order Customer Segments Identification
+# Mail-Order Customer Segments Identification - February 2021
 
 Identifying segments of the population that form the core customer base for a mail-order sales company, with unsupervised learning techniques in Python
 
